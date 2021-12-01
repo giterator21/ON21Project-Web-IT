@@ -1,21 +1,17 @@
 #footer {
-    margin-top: 15%;
     background-color: #c4c4c4;
     color: white;
-    padding: 75px;
+    padding: 100px;
+    padding-left: 100px;     
+    padding-right: 100px;               
+    position:absolute;
     bottom: 0;
+    width: 100%;
 }
 .footer {
-    margin-top: 15%;
+    margin-top: 15%;  
     background-color: #c4c4c4;
     color: white;
     padding: 75px;
     bottom: 0;
-}
-#abstand {
-    margin-top: 50px;
-}
-
-html, body {
-    height: 100%;
 }
